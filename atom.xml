@@ -1,20 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>一只鹿的编程Blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-09T10:38:32.240Z</updated>
+  <updated>2019-11-09T14:28:34.451Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>一只鹿</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About me</title>
+    <link href="http://yoursite.com/2019/11/09/About-me/"/>
+    <id>http://yoursite.com/2019/11/09/About-me/</id>
+    <published>2019-11-09T14:15:25.000Z</published>
+    <updated>2019-11-09T14:28:34.451Z</updated>
+    
+    <content type="html"><![CDATA[<p>作为一个彻底的Linux小白，花了两天时间才装好了Linux系统，然后又花了一天才装好hexo。<br>期间踩坑无数，多亏了网上各路大神的帖子，好歹是安装成功能稳定运行了。撒花～～</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;作为一个彻底的Linux小白，花了两天时间才装好了Linux系统，然后又花了一天才装好hexo。&lt;br&gt;期间踩坑无数，多亏了网上各路大神的帖子，好歹是安装成功能稳定运行了。撒花～～&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
